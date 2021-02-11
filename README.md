@@ -64,6 +64,13 @@ For the first problem set, you have just a couple steps, but it will make sure t
 Note that you can push these files to github multiple times (for example, if you see something else you want to change). Just repeat steps 3 and 4 of this section. Keep in mind that the instructor will download a copy of each student's assignment files at the date and time that assignments are due, so changes can be pushed up to that point.
 
 
+### Steps for checking whether problem sets have pushed to github as expected
+
+Your problem set repository will be in this format: https://github.com/rice-data-course/psX-USERNAME (you'll have to change this so that X is the problem set number and USERNAME is your github username). You can navigate to that url to check that your submitted html file appears on github. Alternatively, you should see recent commits appear on your github profile https://github.com/USERNAME toward the bottom, so you can navigate to the problem set repository that way too.
+
+There's not a super easy way to open the html file from github. However, if you've pushed changes, the version of the html file on your own computer will be the same as the version on github.
+
+
 ### Resources
 * [Happy Git and GitHub for the useR](http://happygitwithr.com/)
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/)
